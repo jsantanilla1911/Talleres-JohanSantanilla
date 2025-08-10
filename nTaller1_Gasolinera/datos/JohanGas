@@ -1,0 +1,13 @@
+tipo:Alinol:9000:9000.0
+tipo:Extra:19000:2000.0
+tipo:Corriente:16000:2000.0
+tipo:Diesel:8000:2000.0
+surtidor:Carlos:Alinol:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Carolina:Alinol:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Johan Santanilla:Alinol:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Santiago:Alinol:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+empleado:Santiago:0
+empleado:Johan Santanilla:0
+empleado:David:0
+empleado:Carolina:0
+empleado:Carlos:0
